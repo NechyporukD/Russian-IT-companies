@@ -23,4 +23,5 @@ https://www.bitrix24.ru
 ### Miro 
 https://miro.com 
 
-### 
+### Kaspersky
+https://www.kaspersky.com/
